@@ -111,8 +111,8 @@ def getTime():
             getTime()
 
 if __name__ == "__main__":
-    ID = "BDSMAKV836"
-    DOF = "05-01-2007"
+    ID = "" # Enter your BDSMAKE ID
+    DOF = "" # Enter your Date of Birth(day-month-year)
     root = Tk()
     root.geometry("500x400+300+200")
     root.minsize(500, 400)
