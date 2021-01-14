@@ -23,7 +23,9 @@ After that, you have to install some third party modules. For this, click on
 3. Press Enter. You will get a black window.
 4. Then type the following command and press enter
 
+```bash
 $ pip install pyautogui keyboard requests
+```
 
 After all packages get installed, run the System.py file.
 Then you open the main.py file.
@@ -31,4 +33,4 @@ Find these lines and type your BDS ID and password,
 ID = "" # enter your ID
 DOF = "" # enter your password
 
-Now run the mainpy file, press connect and enjoy. Don't touch anything during the files run.
+Now run the main.py file, press connect and enjoy. Don't touch anything during the files run.
